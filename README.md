@@ -1,2 +1,2 @@
 # hello-world
-Just a but of practice
+Just a bit of practice
